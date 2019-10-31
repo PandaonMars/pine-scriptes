@@ -1,2 +1,2 @@
 # pine-scriptes
-pine-scripts
+This contains a list of pine-scripts I created, including strategies.
